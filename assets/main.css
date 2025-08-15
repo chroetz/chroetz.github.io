@@ -646,4 +646,14 @@ table td {
   color: #099;
 }
 
+.arxiv-logo {
+  height: 1.3em;
+  vertical-align: middle;
+}
+
+.doi-logo {
+  height: 1.3em;
+  vertical-align: middle;
+}
+
 /*# sourceMappingURL=main.css.map */
